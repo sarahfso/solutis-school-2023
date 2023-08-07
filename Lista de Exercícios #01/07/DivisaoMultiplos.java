@@ -11,10 +11,10 @@ public class DivisaoMultiplos {
             if (num % 3 == 0) { // Verifica se é múltiplo de 3
                 if (num % 2 == 0) {
                     int resultadoInt = num / 2;
-                    System.out.println(num + " / 2 = " + resultadoInt);
+                    System.out.println(num + " dividido por 2 é igual a " + resultadoInt);
                 } else {
                     double resultadoDouble = (double) num / 2;
-                    System.out.println(num + " / 2 = " + resultadoDouble);
+                    System.out.println(num + " dividido por 2 é igual a " + resultadoDouble);
                 }
             }
         }
