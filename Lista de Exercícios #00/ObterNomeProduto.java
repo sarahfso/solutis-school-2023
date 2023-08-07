@@ -7,7 +7,7 @@ produto a partir do código do mesmo. Considere os seguintes códigos:
 002 ? Porca;
 003 ? Prego;
 
-Para qualquer outro código: XXX ? Diversos.
+Para qualquer outro código: XXX2 ? Diversos.
 
 */
 

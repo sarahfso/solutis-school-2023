@@ -7,6 +7,14 @@ Escreva uma classe que verifica se um dado número inteiro é par ou ímpar.
 import java.util.Scanner;
 
 public class ParImparChecker {
+    
+    public static void ParOrImpar(int numero) {
+        if (numero % 2 == 0) {
+            System.out.println(numero + " é um número par.");
+        } else {
+            System.out.println(numero + " é um número ímpar.");
+        }
+    }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -19,11 +27,4 @@ public class ParImparChecker {
         sc.close();
     }
 
-    public static void ParOrImpar(int numero) {
-        if (numero % 2 == 0) {
-            System.out.println(numero + " é um número par.");
-        } else {
-            System.out.println(numero + " é um número ímpar.");
-        }
-    }
 }
