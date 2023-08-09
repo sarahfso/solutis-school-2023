@@ -1,3 +1,17 @@
+/*
+
+Desenhe a seguinte pirâmide de asteriscos. O usuário determina a quantidade de linhas.
+*
+***
+*****
+*******
+*********
+***********
+*************
+***************
+
+*/
+
 import java.util.Scanner;
 
 public class PiramideAsteriscos {

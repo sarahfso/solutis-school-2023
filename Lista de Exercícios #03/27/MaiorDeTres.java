@@ -1,3 +1,9 @@
+/*
+
+Descubra e apresente o maior entre três números fornecidos pelo usuário. Caso eles sejam iguais, avise ao usuário.
+
+*/
+
 import java.util.Scanner;
 
 public class MaiorDeTres {

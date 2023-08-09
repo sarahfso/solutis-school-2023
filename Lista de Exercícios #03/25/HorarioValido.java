@@ -1,3 +1,9 @@
+/*
+
+Valide um horário composto de horas, minutos e segundos.
+
+*/
+
 import java.util.Scanner;
 
 public class HorarioValido {

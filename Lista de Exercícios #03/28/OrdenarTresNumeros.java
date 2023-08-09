@@ -1,3 +1,10 @@
+/*
+
+Coloque em ordem crescente três números quaisquer.
+Como desafio, tente depois fazer uma solução com apenas 3 estruturas de decisão.
+
+*/
+
 import java.util.Scanner;
 
 public class OrdenarTresNumeros {
