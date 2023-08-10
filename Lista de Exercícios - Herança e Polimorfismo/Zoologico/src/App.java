@@ -40,6 +40,6 @@ public class App {
         System.out.println("------------------------------------------------------");
 
         //Implementação da classe Zoológico
-        new Zoologico();
+        new Zoologico(); 
     }
 }
